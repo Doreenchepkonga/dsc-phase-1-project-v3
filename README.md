@@ -43,7 +43,7 @@ Data Cleaning:
 
 Data Anaysis:
    - Determine the purposes of flight that resulted in the most crashes
-  ![Alt text](Images/purposes_of_flights.png) 
+  
    - Determine the fatality ratio for the top 10 manufactures
    ![Alt text](Images/make_fatality_ratios.png)
 
